@@ -11,6 +11,8 @@
 
 ### **Android**
 
+Стажировки по Android в VK: https://internship.vk.company/internship?direction=5&skill=534#vacancies
+
 ### **iOS**
 
 ### **QA**
