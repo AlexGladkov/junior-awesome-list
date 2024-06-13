@@ -14,11 +14,14 @@
 **ML** - Инженер ML\
 **QA** - Тестировщик, Тестировщик-автоматизатор\
 **Инфраструктура** - DevOps, DBA, DWH
-*
+---
+* [Стажировка в VK](https://internship.vk.company/internship?direction=5&skill=534#vacancies)\
+**Разработка** - Android, Java
+---
 
 ### **Вакансии**
 
-### **Telegram-каналы**
+### **iOS**
 
 Как добавить что-то?
 ---
