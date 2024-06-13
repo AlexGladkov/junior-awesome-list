@@ -18,10 +18,20 @@
 * [Стажировка в VK](https://internship.vk.company/internship?direction=5&skill=534#vacancies)\
 **Разработка** - Android, Java
 ---
+* [Стажировка в Yandex](https://yandex.ru/yaintern/)\
+**Разработка** - Backend (Python, Go, Java, C++, Kotlin, Scala, C), iOS, Android, Frontend\
+**Инфраструктура** - DevOps\
+**ML** - Аналитик данных, ML инженер
+---
+* [Стажировка в Ozon](https://job.ozon.ru/internships/)
+---
 
 ### **Вакансии**
 
-### **iOS**
+### **Telegram-каналы**
+[Работа и стажировки для Junior](https://t.me/juniors_rabota_jobs)\
+Премущественно frontend, но попадаются вакансии и стажировки для мобилки и бэкенда
+---
 
 Как добавить что-то?
 ---
