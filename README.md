@@ -29,7 +29,7 @@
 ### **Вакансии**
 
 ### **Telegram-каналы**
-[Работа и стажировки для Junior](https://t.me/juniors_rabota_jobs)\
+* [Работа и стажировки для Junior](https://t.me/juniors_rabota_jobs)\
 Премущественно frontend, но попадаются вакансии и стажировки для мобилки и бэкенда
 ---
 
